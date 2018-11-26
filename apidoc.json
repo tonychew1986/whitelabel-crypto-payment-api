@@ -1,0 +1,15 @@
+{
+  "name": "aditus-private-api",
+  "version": "0.3.0",
+  "description": "apidoc example project.",
+  "apidoc": {
+    "header": {
+      "title": "My own header title",
+      "filename": "header.md"
+    },
+    "footer": {
+      "title": "My own footer title",
+      "filename": "footer.md"
+    }
+  }
+}
